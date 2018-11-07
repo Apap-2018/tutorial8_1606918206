@@ -1,0 +1,3 @@
+1606918206 Ilham Pamungkas
+1. BCrypt encoder adalah algoritma hashing yang scalable dengan hardware yang berguna untuk mengencode suatu password
+2. baris tersebut membuat sebuah set authorities, untuk mengstore authorities dalam sebuah objek.
